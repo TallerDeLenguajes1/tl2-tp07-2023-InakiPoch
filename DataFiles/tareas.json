@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "Tarea 1",
+    "Descripcion": "Primera tarea",
+    "Estado": 2
+  },
+  {
+    "Id": 2,
+    "Titulo": "Tarea 2",
+    "Descripcion": "Segunda tarea",
+    "Estado": 0
+  },
+  {
+    "Id": 3,
+    "Titulo": "Tarea 3",
+    "Descripcion": "Tercera tarea",
+    "Estado": 0
+  },
+  {
+    "Id": 4,
+    "Titulo": "Tarea 4",
+    "Descripcion": "Cuarta tarea",
+    "Estado": 2
+  },
+  {
+    "Id": 5,
+    "Titulo": "Tarea 5",
+    "Descripcion": "Quinta tarea",
+    "Estado": 0
+  }
+]
